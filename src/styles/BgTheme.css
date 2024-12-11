@@ -1,0 +1,12 @@
+.bg-theme {
+  background-image: url('../assets/image/img_bg.webp');
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100vh;
+  width: 100%;
+  padding-top: 6%; 
+   background: hsba(0, 0%, 100%, 1); 
+  
+}

@@ -1,0 +1,25 @@
+.card-container {
+  width:  1140px;
+  height: 34px;
+  top: 32px;
+  left: 304px;
+  padding: 12px 40px 12px 16px;
+  gap: 10px;
+  border-radius: 12px 0px 0px 0px;
+  opacity: 0px;
+  background: #FFFFFF;
+  box-shadow: 0px 2px 12px 0px #0000001F;
+  margin-top: 50px;  
+  margin-left: 280px; 
+  justify-content: flex-end;
+}
+ 
+.card-subcontainer {
+  width: Hug (100px)px;
+  height: Hug (32px)px;
+  gap: 16px;
+  opacity: 0px; 
+  justify-content: flex-end;
+  
+} 
+  

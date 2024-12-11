@@ -1,0 +1,96 @@
+.sidebar-container 
+{ 
+  
+  width: 200px;
+ height: 990px;
+gap: 0px;
+border-radius: 12px 0px 0px 0px;
+opacity: 0px;
+background: #FFFFFF;
+box-shadow: 0px 2px 12px 0px #0000001F;
+margin-left: 50px;
+margin-top: -55px; 
+
+} 
+ 
+
+.sidebar-items 
+{
+  width: Fill (225px)px;
+height: 50px;
+padding: 12px 0px 0px 0px;
+gap: 8px;
+border-radius: 4px 0px 0px 4px;
+border: 0px 2px 0px 0px;
+opacity: 0px;
+
+background: linear-gradient(90deg, #003890 0%, rgba(48, 92, 162, 0.3) 100%);
+
+border-right: 2px solid #003890 ;
+
+  
+ 
+}  
+
+
+.sidebar-items2 
+{
+  width: Fill (225px)px;
+  height: Hug (49px)px;
+  padding: 12px 0px 0px 0px;
+  gap: 8px;
+  border-radius: 4px 0px 0px 4px;
+  border: 0px 2px 0px 0px;
+  opacity: 0px;
+  
+}
+
+.sidebar-icon 
+{
+  width: 24px;
+height: 24px;
+
+
+} 
+
+.sidebar-text 
+{
+  width: 110px;
+height: 25px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 21px;
+font-weight: 500;
+line-height: 25.41px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none; 
+margin-top: -28px; 
+margin-left: 40px;
+color: #FFFFFF;
+ 
+  
+
+
+
+} 
+
+
+.sidebar-text2 
+{
+  width: 95px;
+height: 25px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 21px;
+font-weight: 500;
+line-height: 25.41px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #666666;
+margin-top: -28px; 
+margin-left: 40px;
+}

@@ -1,0 +1,226 @@
+
+
+
+
+.workflow-heading {
+  width: 200px;
+  height: 24px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24.2px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #000000; 
+  margin-left: 300px; 
+  margin-top: -920px;
+
+} 
+
+.workflow-card 
+{
+  width: 376px;
+  height: 264px;
+  padding: 16px 0px 0px 0px;
+  gap: 12px;
+  border-radius: 7px 0px 0px 0px;
+  opacity: 0px;
+  background: #FFFFFF;
+  box-shadow: 0px 2px 12px 0px #0000001F;
+  margin-left: 300px; 
+  margin-top: 20px;
+
+} 
+.card-heading {
+  color: #003890; 
+  font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+line-height: 19.2px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+width: 57px;
+height: 19px;
+gap: 0px;
+opacity: 0px; 
+margin-left: 10px; 
+margin-top: -5px;
+} 
+.card-firstdiv
+{
+  display: flex; 
+  flex-direction: column;
+} 
+
+.seconddiv{ 
+  display: flex; 
+  flex-direction: column;
+  margin-top: -10px; 
+  width: 340px; 
+  margin-left: 10px; 
+  margin-top: 2px;
+height: 30px;
+padding: 4px 8px 4px 8px;
+gap: 0px;
+border-radius: 4px 0px 0px 0px;
+
+opacity: 0px;
+background: #F7F7F7;
+
+} 
+
+.card-status {
+  background: #FFE178;
+  width: 40px;
+  height: Fill (24px)px;
+  padding: 4px 8px 4px 8px;
+  gap: 10px;
+  border-radius: 7px 0px 0px 0px;
+  opacity: 0px;
+  color: #000000;  
+  font-family: Inter;
+font-size: 12px;
+font-weight: 500;
+line-height: 14.4px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none; 
+margin-left: 270px;
+margin-top: -50px;
+
+} 
+
+.card-icon { 
+  
+  margin-left: 340px; 
+  width: 24px;
+  height: 24px;
+  gap: 0px;
+  opacity: 0px; 
+  margin-top: -40px;
+
+} 
+
+.card-p {
+  width: 84px;
+  height: 20px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 19.6px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 19.6px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+margin-left: 10px;
+} 
+.card-p1 { 
+
+  width: 84px;
+  height: 20px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 19.6px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 19.6px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+margin-left: 280px; 
+margin-top: -33px;
+
+} 
+
+.card-firstdiv-2 {
+    display: flex; 
+    flex-direction: column; 
+    margin-top: -20px;
+} 
+
+.card-button {
+  width: 110px;
+  height: Hug (40px)px;
+  padding: 9px 16px 9px 16px;
+  gap: 10px;
+  border-radius: 6px 0px 0px 0px;
+  opacity: 0px;
+  background: #003890; 
+  color: #F7F7F7; 
+  margin-left: 250px;  
+  border-radius: 5px;
+  margin-top: -39px;
+
+} 
+.finaldiv {
+  display: flex; 
+  flex-direction: column;
+} 
+
+.status-bar 
+{
+  width: 60px;
+  height: 15px;
+  padding: 4px 8px 4px 8px;
+  gap: 4px;
+  border-radius: 4px 0px 0px 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px; 
+  background: #E6E6E6;
+  border: 1px solid #CCCCCC;
+  justify-self: flex-end;
+  margin-right: 43px; 
+  margin-top: -20px;
+  
+} 
+
+.statusbar-text {
+  width: 39px;
+height: 19px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 19.36px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+} 
+
+.status-bar-1
+{
+  width: 60px;
+  height: 15px;
+  padding: 4px 8px 4px 8px;
+  gap: 4px;
+  border-radius: 4px 0px 0px 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px; 
+  background: #E6E6E6;
+  border: 1px solid #CCCCCC;
+  justify-self: flex-end;
+  margin-right: 130px; 
+  margin-top: -25px;
+  
+} 
